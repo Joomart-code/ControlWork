@@ -5,6 +5,5 @@ env/
 .venv/
 *.sqlite3
 .env
-.gitignore.py
 .idea/
 git add .gitignore
